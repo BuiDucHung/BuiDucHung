@@ -1,4 +1,4 @@
-# 💫                                              Hello <img src='https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif' style="height: 50px;"/> I'm BuiDucHung
+# 💫                                              Hello <img src='https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif' style="height: 50px;"/> I'm DUC HUNG BUI
 😄 Pronouns: He/His<br>🔭 I’m currently building Front-End.<br>🌱 I’m currently learning more about Back-End.<br>💬 Ask me about Front-End any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 2 hours listening to songs every day.
 
 
